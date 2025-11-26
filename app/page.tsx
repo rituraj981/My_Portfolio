@@ -54,7 +54,7 @@ export default function Portfolio() {
       title: "Data Science intern",
       company: "Viqasys Innovation Pvt. Ltd.",
       duration: "April 2024 - Oct 2024",
-      description: "During this internship, gathered, cleaned, and organized data into structured formats using Excel, Power BI, and Python. He stored and managed data in MySQL, wrote Python scripts to extract insights, and created interactive Power BI dashboards. His dedication, accuracy, and professionalism were consistently commendable throughout the internship.",
+      description: "During this internship, gathered, cleaned, and organized data into structured formats using Excel, Power BI, and Python. Stored and managed data in MySQL, wrote Python scripts to extract insights, and created interactive Power BI dashboards. My dedication, accuracy, and professionalism were consistently commendable throughout the internship.",
       link: "#"
     },
     {
